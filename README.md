@@ -17,8 +17,8 @@ I am eager to learn new things.
 
 - **Hack4dev:** Certification obtained during the 2025 hackathon for image classification.  
 - **BRICS Astronomy:** Completion certificate for an 8-week online training in astronomical data analysis.  
-- **DARA Computer Training:** Certificate for a one-week Python and Linux training.  
-- **Mindluster:** Certification obtained after completing all video tutorials on the Mindluster platform.  
-- **Coursera:** Certificate earned after completing courses on the Coursera platform, including videos, readings, and daily quizzes.
-- **Orange Digital Center:** Certificate earned after completing training at Orange Digital Center Madagascar
-
+- **DARA Computer Training:** Certificate awarded after completing a one-week in-person training in Python and Linux.  
+- **Mindluster:** Certification obtained after completing all video tutorials on the Mindluster online platform. 
+- **Coursera:** Certificate earned after completing online courses on the Coursera platform, including video lectures, readings, and daily quizzes.
+- **Orange Digital Center:** Certificate earned after completing in-person training at Orange Digital Center Madagascar.
+- **AfriAI Solutions:** Certificate earned after completing an online training program by AfriAI Solutions.
