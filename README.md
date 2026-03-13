@@ -15,6 +15,7 @@ I am eager to learn new things.
 
 # Certification Details
 
+- **DARA BASIC COMPLETE:** Certificate awarded after completing all the training in DARA Basic.
 - **Hack4dev:** Certification obtained during the 2025 hackathon for image classification.  
 - **BRICS Astronomy:** Completion certificate for an 8-week online training in astronomical data analysis.  
 - **DARA Computer Training:** Certificate awarded after completing a one-week in-person training in Python and Linux.  
